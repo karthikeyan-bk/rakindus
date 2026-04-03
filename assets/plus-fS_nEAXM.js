@@ -1,0 +1,1 @@
+import{c as o}from"./index-BcUd8Dej.js";const s=[["path",{d:"M12 5v14",key:"s699le"}],["path",{d:"m19 12-7 7-7-7",key:"1idqje"}]],a=o("arrow-down",s);const e=[["path",{d:"M5 12h14",key:"1ays0h"}]],c=o("minus",e);const n=[["path",{d:"M5 12h14",key:"1ays0h"}],["path",{d:"M12 5v14",key:"s699le"}]],d=o("plus",n);export{a as A,c as M,d as P};
